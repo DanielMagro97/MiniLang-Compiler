@@ -1,0 +1,20 @@
+def areEqual (x : int, y : int) : bool {
+    print "ints";
+    if (x == y) {
+		return true;
+	} else {
+		return false;
+	}
+}
+def areEqual (x : string, y : string) : bool {
+    print "strings";
+    if (x == y) {
+		return true;
+	} else {
+		return false;
+	}
+}
+print areEqual(5, 5);
+print areEqual(5, 15);
+print areEqual("hello", "hello");
+print areEqual("hello", "bye");

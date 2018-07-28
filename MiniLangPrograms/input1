@@ -1,0 +1,33 @@
+def funcSquare ( x : r e a l ) : r e a l {
+	r e t u r n x*x ;
+}
+
+def funcGreaterThan ( x : r e al , y : r e a l ) : bool {
+	var ans : bool = t r u e ;
+	i f ( y > x ) { set ans = f a l s e ; }
+	r e t u r n ans ;
+}
+/*
+ * this is a block
+* comment
+test ****
+*/
+var x : r e a l = 2 . 4 ;
+var y : r e a l = funcSqua re ( 2 . 5 ) ;
+p r i n t y ; //6.25
+p r i n t funcGreaterThan ( x , 2 . 3 ) ; // t r u e
+p r i n t funcGreaterThan ( x , funcSqua re ( 1 . 5 5 5 ) ) ; // f a l s e
+
+
+def fact (x : int) : int {
+    if (x == 0) {
+        return 1;
+    } else {
+        //return (x + fact(x - 1));
+        return 5;
+    }
+}
+print fact(35);
+
+//var x : int = 5;
+print x;

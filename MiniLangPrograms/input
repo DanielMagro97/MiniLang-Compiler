@@ -1,0 +1,13 @@
+d ef funcS qua re ( x : r e a l ) : r e a l {
+r e t u r n x*x ;
+}
+d ef funcGreaterThan ( x : r e al , y : r e a l ) : bool {
+var ans : bool = t r u e ;
+i f ( y > x ) { s e t ans = f a l s e ; }
+r e t u r n ans ;
+}
+var x : r e a l = 2 . 4 ;
+var y : r e a l = funcSqua re ( 2 . 5 ) ;
+p r i n t y ; //6.25
+p r i n t funcGreaterThan ( x , 2 . 3 ) ; // t r u e
+p r i n t funcGreaterThan ( x , funcSqua re ( 1 . 5 5 5 ) ) ; // f a l s e

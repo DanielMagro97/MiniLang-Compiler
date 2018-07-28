@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Compiler" targetName="Compiler" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0ee9491-d37b-4b3c-9ecb-b7c913a29bc5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2057">
+              <caret line="121" selection-start-line="121" selection-end-line="121" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>subEx</find>
+      <find>functionc</find>
+      <find>formalPar</find>
+      <find>ty</find>
+      <find>ASTType</find>
+      <find>act</find>
+      <find>actual</find>
+      <find>parseFormalParameters</find>
+      <find>toStri</find>
+      <find>currentSymbolTableScopeIndex</find>
+      <find>currentSymbolTableScopeIndex =</find>
+      <find>A</find>
+      <find>typeof</find>
+      <find>type</find>
+      <find>returnType</find>
+      <find>vector&lt;T</find>
+      <find>actua</find>
+      <find>while</find>
+      <find>FunctionC</find>
+      <find>hasRet</find>
+      <find>stri</find>
+      <find>functionBool</find>
+      <find>switch</find>
+      <find>parseI</find>
+      <find>win</find>
+      <find>parseW</find>
+      <find>parseB</find>
+      <find>parseIf</find>
+      <find>for</find>
+      <find>ASTW</find>
+    </findStrings>
+    <dirStrings>
+      <dir>B:\Users\danqu\Google Drive\AI\Y2\S2\CPS2000 - Compiler Theory and Practice\Assignment\WinCompiler</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/parser/ast/expression/literal/ASTString.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/literal/ASTBoolean.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTFunctionCall.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTActualParameters.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/statement/ASTBlock.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/statement/ASTWhile.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/statement/ASTReturn.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/statement/ASTFormalParameter.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTUnaryOperator.h" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTUnaryOperator.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTSubExpr.h" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTSubExpr.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTOperator.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTOperator.h" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTBinaryExpr.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTUnaryExpr.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/statement/ASTPrint.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/statement/ASTIf.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/statement/ASTFunctionDeclaration.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/statement/ASTFormalParameters.cpp" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTUnaryExpr.h" />
+        <option value="$PROJECT_DIR$/visitors/Visitor.h" />
+        <option value="$PROJECT_DIR$/visitors/SemanticAnalysis.h" />
+        <option value="$PROJECT_DIR$/visitors/semanticanalysis/Type.h" />
+        <option value="$PROJECT_DIR$/visitors/semanticanalysis/VarType.cpp" />
+        <option value="$PROJECT_DIR$/visitors/semanticanalysis/VarType.h" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTType.h" />
+        <option value="$PROJECT_DIR$/parser/ast/expression/ASTType.cpp" />
+        <option value="$PROJECT_DIR$/visitors/ASTtoXMLVisitor.h" />
+        <option value="$PROJECT_DIR$/visitors/ASTtoXMLVisitor.cpp" />
+        <option value="$PROJECT_DIR$/visitors/semanticanalysis/SymbolTable.cpp" />
+        <option value="$PROJECT_DIR$/lexer/States.h" />
+        <option value="$PROJECT_DIR$/input2" />
+        <option value="$PROJECT_DIR$/parser/Parser.cpp" />
+        <option value="$PROJECT_DIR$/lexer/Lexer.cpp" />
+        <option value="$PROJECT_DIR$/MiniLangI.cpp" />
+        <option value="$PROJECT_DIR$/input" />
+        <option value="$PROJECT_DIR$/visitors/semanticanalysis/SymbolTable.h" />
+        <option value="$PROJECT_DIR$/input3" />
+        <option value="$PROJECT_DIR$/visitors/semanticanalysis/SemanticAnalysis.h" />
+        <option value="$PROJECT_DIR$/lexer/Lexer.h" />
+        <option value="$PROJECT_DIR$/visitors/interpreterexecution/InterpreterExecution.h" />
+        <option value="$PROJECT_DIR$/visitors/semanticanalysis/SemanticAnalysis.cpp" />
+        <option value="$PROJECT_DIR$/visitors/interpreterexecution/InterpreterExecution.cpp" />
+        <option value="$PROJECT_DIR$/parser/Parser.h" />
+        <option value="$PROJECT_DIR$/input1" />
+        <option value="$PROJECT_DIR$/visitors/semanticanalysis/VariableProperties.h" />
+        <option value="$PROJECT_DIR$/MiniLangPrograms/iterativefibonacci" />
+        <option value="$PROJECT_DIR$/MiniLangPrograms/input" />
+        <option value="$PROJECT_DIR$/Main.cpp" />
+        <option value="$PROJECT_DIR$/MiniLangPrograms/functions" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1308" />
+    <option name="y" value="-459" />
+    <option name="width" value="1214" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\Users\danqu\Google Drive\AI\Y2\S2\CPS2000 - Compiler Theory and Practice\Assignment\WinCompiler\visitors\semanticanalysis" />
+      <recent name="B:\Users\danqu\Google Drive\AI\Y2\S2\CPS2000 - Compiler Theory and Practice\Assignment\WinCompiler\visitors" />
+      <recent name="B:\Users\danqu\Google Drive\AI\Y2\S2\CPS2000 - Compiler Theory and Practice\Assignment\WinCompiler" />
+      <recent name="B:\Users\danqu\Google Drive\AI\Y2\S2\CPS2000 - Compiler Theory and Practice\Assignment\WinCompiler\parser\ast\expression\literal" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Compiler">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Compiler" RUN_TARGET_NAME="Compiler" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="Compiler" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Compiler" TARGET_NAME="Compiler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Compiler" RUN_TARGET_NAME="Compiler" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Compiler" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0ee9491-d37b-4b3c-9ecb-b7c913a29bc5" name="Default" comment="" />
+      <created>1523555667937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523555667937</updated>
+      <workItem from="1523555674745" duration="6390000" />
+      <workItem from="1523564577560" duration="9196000" />
+      <workItem from="1523612639498" duration="28334000" />
+      <workItem from="1523810995021" duration="10285000" />
+      <workItem from="1523895720416" duration="2935000" />
+      <workItem from="1523997259215" duration="9409000" />
+      <workItem from="1524136160719" duration="7334000" />
+      <workItem from="1524307423749" duration="11395000" />
+      <workItem from="1524408352263" duration="10610000" />
+      <workItem from="1524477073688" duration="14279000" />
+      <workItem from="1524564276508" duration="24698000" />
+      <workItem from="1524748302174" duration="93000" />
+      <workItem from="1524751256306" duration="874000" />
+      <workItem from="1524771515178" duration="19597000" />
+      <workItem from="1524872891427" duration="854000" />
+      <workItem from="1524910367490" duration="23403000" />
+      <workItem from="1525046253236" duration="105000" />
+      <workItem from="1525074441145" duration="4355000" />
+      <workItem from="1525093922436" duration="5639000" />
+      <workItem from="1525168426260" duration="203000" />
+      <workItem from="1525168714299" duration="11473000" />
+      <workItem from="1525388548745" duration="9975000" />
+      <workItem from="1525512257424" duration="17168000" />
+      <workItem from="1525861246728" duration="7685000" />
+      <workItem from="1525905474799" duration="1983000" />
+      <workItem from="1525950774988" duration="12940000" />
+      <workItem from="1526071892864" duration="1992000" />
+      <workItem from="1526075241362" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="253298000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1288" y="-459" width="1296" height="1010" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20546874" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.37957823" />
+      <window_info anchor="bottom" id="Statistic" order="12" weight="0.3529412" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32963374" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50073206" side_tool="true" weight="0.3503876" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4672586" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" weight="0.36847946" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19533852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20546874" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="12" weight="0.3529412" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" weight="0.36899224" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.38068813" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50073206" side_tool="true" weight="0.3503876" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32963374" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="60" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2456" selection-start-line="5" selection-start-column="2456" selection-end-line="5" selection-end-column="2456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/statement/ASTFunctionDeclaration.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/expression/ASTUnaryOperator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/expression/ASTOperator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/x86_64-w64-mingw32/include/advpub.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/expression/ASTActualParameters.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/expression/ASTActualParameters.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/bits/allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/bits/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/ext/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/statement/ASTBlock.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/bits/stl_iterator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="738" selection-start-line="738" selection-end-line="738" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/bits/stl_multimap.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="314" selection-start-line="314" selection-end-line="314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/bits/stl_tree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="684" selection-start-line="684" selection-end-line="684" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/statement/ASTVariableDeclaration.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/expression/ASTFunctionCall.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexer/States.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexer/Tokens.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/ASTtoXMLVisitor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/ASTtoXMLVisitor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/Visitor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="1125" selection-start-line="1125" selection-end-line="1125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WinBuilds/include/c++/4.8.3/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="2520" selection-start-line="2520" selection-end-line="2520" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/semanticanalysis/SymbolTable.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="33" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexer/Lexer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="31" column="91" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
+          <folding>
+            <element signature="e#14#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/semanticanalysis/SemanticAnalysis.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/semanticanalysis/SemanticAnalysis.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/Parser.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/Parser.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="79" column="96" selection-start-line="79" selection-start-column="96" selection-end-line="79" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/semanticanalysis/SymbolTable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/statement/ASTVariableDeclaration.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input" />
+    <entry file="file://$PROJECT_DIR$/input2" />
+    <entry file="file://$PROJECT_DIR$/input3" />
+    <entry file="file://$PROJECT_DIR$/input1" />
+    <entry file="file://$PROJECT_DIR$/parser/ast/expression/ASTType.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/interpreterexecution/InterpreterExecution.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/ast/expression/ASTType.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/interpreterexecution/InterpreterExecution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="158" column="1" lean-forward="true" selection-start-line="158" selection-start-column="1" selection-end-line="158" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitors/semanticanalysis/VariableProperties.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniLangPrograms/iterativefibonacci">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniLangPrograms/input3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniLangPrograms/input1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniLangPrograms/input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexer/Lexer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-366">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniLangPrograms/functions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniLangI.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2456" selection-start-line="5" selection-start-column="2456" selection-end-line="5" selection-end-column="2456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

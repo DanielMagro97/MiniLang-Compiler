@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Compiler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Compiler">
+				<Option output="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Compiler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/danqu/WinBuilds/include"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 Compiler"/>
+					<CompileFile command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Compiler/fast">
+				<Option output="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Compiler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/danqu/WinBuilds/include"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\users\danqu\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 Compiler/fast"/>
+					<CompileFile command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/danqu/WinBuilds/bin/mingw32-make.exe -f &quot;B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/Main.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/lexer/Lexer.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/lexer/Lexer.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/lexer/States.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/lexer/Tokens.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/Parser.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/Parser.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/ASTExpressionNode.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/ASTNode.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/ASTStatementNode.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTActualParameters.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTActualParameters.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTBinaryExpr.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTBinaryExpr.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTFunctionCall.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTFunctionCall.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTIdentifier.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTIdentifier.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTLiteral.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTOperator.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTOperator.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTSubExpr.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTSubExpr.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTType.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTType.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTUnaryExpr.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTUnaryExpr.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTUnaryOperator.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/ASTUnaryOperator.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/literal/ASTBoolean.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/literal/ASTBoolean.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/literal/ASTInteger.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/literal/ASTInteger.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/literal/ASTReal.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/literal/ASTReal.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/literal/ASTString.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/expression/literal/ASTString.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTAssignment.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTAssignment.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTBlock.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTBlock.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTFormalParameter.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTFormalParameter.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTFormalParameters.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTFormalParameters.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTFunctionDeclaration.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTFunctionDeclaration.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTIf.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTIf.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTPrint.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTPrint.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTReturn.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTReturn.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTVariableDeclaration.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTVariableDeclaration.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTWhile.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/parser/ast/statement/ASTWhile.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/ASTtoXMLVisitor.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/ASTtoXMLVisitor.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/Visitor.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/interpreterexecution/InterpreterExecution.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/interpreterexecution/InterpreterExecution.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/semanticanalysis/SemanticAnalysis.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/semanticanalysis/SemanticAnalysis.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/semanticanalysis/SymbolTable.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/semanticanalysis/SymbolTable.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/visitors/semanticanalysis/VariableProperties.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

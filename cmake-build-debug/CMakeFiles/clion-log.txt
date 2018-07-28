@@ -1,0 +1,4 @@
+C:\Users\danqu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "B:\Users\danqu\Google Drive\AI\Y2\S2\CPS2000 - Compiler Theory and Practice\Assignment\Compiler"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: B:/Users/danqu/Google Drive/AI/Y2/S2/CPS2000 - Compiler Theory and Practice/Assignment/Compiler/cmake-build-debug
